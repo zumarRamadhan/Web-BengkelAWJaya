@@ -327,6 +327,7 @@ nav input {
     background-color: #181818;
     border-radius: 20px;
     padding: 30px;
+    text-align: center;
 }
 
 .card-layanan:hover{
@@ -474,6 +475,7 @@ nav input {
     border-radius: 20px;
     padding: 30px;
     width: 400px;
+    text-align: center;
     height: 250px;
 }
 
@@ -544,7 +546,6 @@ nav input {
 
     .card-kontak{
         border-radius: 10px;
-        height: 220px;
         text-align: center;
     }
 
